@@ -18,7 +18,7 @@ Then press the Run button to run the project on the connected device**
 **Feature :**
 
 **Splash Screen
-Onboard Screen
+``Onboard Screen
 Login and Registration Screen
 Forget Password and Reset Password Screen
 Email, Sms Screen
@@ -36,7 +36,7 @@ Casino Dice game
 Menu Screen
 Profile Screen
 Change Password Screen
-And more...**
+And more...``**
 
 **Main Configuration
 Application Setup**
